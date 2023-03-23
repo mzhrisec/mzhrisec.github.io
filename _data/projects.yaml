@@ -1,0 +1,29 @@
+- title:  Arjun
+  desc:   "HTTP parameter discovery suite"
+  href:   https://github.com/s0md3v/Arjun
+  status: mature
+
+- title:  uro
+  desc:   "Saviour of scanners. Removes 'boring' URLs from URL lists"
+  href:   https://github.com/s0md3v/uro
+  status: complete
+
+- title:  Smap
+  desc:   "Nmap replica with shodan.io"
+  href:   https://github.com/s0md3v/Smap
+  status: mature
+
+- title:  XSStrike
+  desc:   "Complete XSS detection suite"
+  href:   https://github.com/s0md3v/XSStrike
+  status: abandoned
+
+- title:  Be-a-hacker
+  desc:   "Roadmap for beginners in hacking"
+  href:   https://github.com/s0md3v/be-a-hacker
+  status: complete
+
+- title:  Dump
+  desc:   "Small hacky programs"
+  href:   https://github.com/s0md3v/dump/
+  status: growing
