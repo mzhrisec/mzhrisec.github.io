@@ -8,7 +8,7 @@
 # Site settings
 title: Mohammad Zaheri - blog
 email: neoboy503@gmail.com
-description: Mohammad Zaheri - Bug Bounty Hunter & Automatation Researcher
+description: Mohammad Zaheri - Bug Bounty Hunter & Security Researcher
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://mzhrisec.github.io" # the base hostname & protocol for your site
 usernames:
