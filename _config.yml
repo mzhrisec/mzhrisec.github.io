@@ -6,22 +6,22 @@
 # 'jekyll serve'. If you change this file, please restart the server process.
 
 # Site settings
-title: Somdev Sangwan - blog
-email: s0md3v@gmail.com
-description: Somdev Sangwan - Security & Automatation Researcher
+title: Mohammad Zaheri - blog
+email: neoboy503@gmail.com
+description: Mohammad Zaheri - Bug Bounty Hunter & Automatation Researcher
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "https://s0md3v.github.io" # the base hostname & protocol for your site
+url: "https://mzhrisec.github.io" # the base hostname & protocol for your site
 usernames:
-  twitter: s0md3v
-  github:  s0md3v
-  linkedin: s0md3v
-  instagram: s0md3v
+  twitter: mzaherii
+  #github:  s0md3v
+  linkedin: mohammadzaheri
+  instagram: mzhrisec
 
 permalink: pretty
 
 # Build settings
 markdown: kramdown
-timezone: "+0530"
+timezone: "+0000"
 
 # Defaults
 defaults:
