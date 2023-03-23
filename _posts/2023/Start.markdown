@@ -1,0 +1,15 @@
+---
+layout: post
+title:  "Just started my frist blog"
+date:   2023-03-23 21:00:00 +0000
+author: Mohammad Zaheri
+tags:   [Start]
+description: "Why started my personal blog?"  
+---
+
+Hi all or team members or anyone read this post .
+
+in the this weekend and after live events on google meet i read the [rez0](https://rez0.blog/personal/2023/02/27/how-to-spend-time-well.html) and [Somedev](https://s0md3v.github.io/blog/get-good-quickly) blog post, i like them and decided to create blog,i stoled theme from [Somedev](https://s0md3v.github.io/) and run this blog :D
+
+I will share my writeups here and meybe writing some personal post about life , car , motivation and etc...
+Thanks for reading this and if you need contact me or have questions reach me at [about](https://mzhrisec.github.io/about)
