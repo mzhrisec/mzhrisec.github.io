@@ -13,7 +13,7 @@ baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://mzhrisec.github.io" # the base hostname & protocol for your site
 usernames:
   twitter: mzaherii
-  #github:  s0md3v
+  github:  mzhrisec
   linkedin: mohammadzaheri
   instagram: mzhrisec
 
