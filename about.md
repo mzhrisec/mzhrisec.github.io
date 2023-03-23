@@ -7,4 +7,4 @@ order: 999
 
 Love hacking,cars,movies and series :) 
 
-To know more about me follow my [Instagram](https://instagram.com/mzhrisec) or [Twitter](https://twitter.com/mzhrisec) :D
+To know more about me follow my [Instagram](https://instagram.com/mzhrisec) or [Twitter](https://twitter.com/mzaherii) :D
