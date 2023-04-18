@@ -1,8 +1,0 @@
----
-layout: post
-title:  "Just Started My Blo111g"
-date:   2023-04-16 21:00:00 +0000
-author: Mohammad Zaheri
-tags:   [Start]
-description: "Why started my personal blog?"  
----
